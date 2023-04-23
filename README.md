@@ -18,7 +18,7 @@ Most of the distances are in the middle around 3-6. Almost symetrical distributi
 
 The manhattan distance is the sum of absolute differences between the points coordinates. An interesting fact about the manhattan distance is that it measure distances along the coorinate axis. This creates "paths" that look like a cab's route on a grid-style city map. That is why it is also called taxicab or city block distance.
 
-Here we did a scatter plot of the manhattan distance of each point to our reference point of X=4, Z=4.
+Here I did a scatter plot of the manhattan distance of each point to our reference point of X=4, Z=4.
 
 ![image](https://user-images.githubusercontent.com/86930309/227798085-c894e669-2ec3-4606-a3c9-de126f0becaf.png)
 
