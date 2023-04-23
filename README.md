@@ -6,7 +6,7 @@
 
 ## 1. Euclidean Distance
 
-First we made scatter plot of all the euclidean distances of Y and Z in our dataset to our selected location of Y=5, Z=5. The different colors represent the euclidean distance to our selected location.
+First I made scatter plot of all the euclidean distances of Y and Z in our dataset to our selected location of Y=5, Z=5. The different colors represent the euclidean distance to our selected location.
 
 ![image](https://user-images.githubusercontent.com/86930309/227797905-5c977390-b9d0-4420-9a3e-be2582ae14e5.png)
 
